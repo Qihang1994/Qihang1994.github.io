@@ -11,17 +11,14 @@ Qihang Zhou received the Ph.D degree in Cyberspace Security from University of C
 
 Education & Work Experience
 ------
-
 _2022.09 - Now_,  Institute of Information Engineering, Chinese Academy of Sciences,  Research associate
-
 _2017.09 - 2022.07_,  University of Chinese Academy of Sciences,  Ph.D
-
 _2013.09 - 2017.07_,  Dalian Maritime University,  B.E 
 
 Paper
 ------
 
-HClave: An isolated execution environment design for hypervisor runtime security. Qihang Zhou , Wenzhuo Cao, Xiaoqi Jia, Shengzhi Zhang, Jiayun Chen, Nan Jiang, Weijuan Zhang, Haichao Du, Zhenyu Song, Qingjia Huang. ( Computers & Security ) 2024
+HClave: An isolated execution environment design for hypervisor runtime security. Qihang Zhou , Wenzhuo Cao, Xiaoqi Jia, Shengzhi Zhang, Jiayun Chen, Nan Jiang, Weijuan Zhang, Haichao Du, Zhenyu Song, Qingjia Huang. ( Computers & Security ) 2024 
 
 A Multi-realm Architecture Design for Running VM with ARM CCA. Jiayun Chen, Qihang Zhou , Xiaolong Yan, Nan Jiang, Xiaoqi Jia, Weijuan Zhang. ( ACSAC ) 2024
 
