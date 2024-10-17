@@ -20,29 +20,29 @@ _2013.09 - 2017.07_,  Dalian Maritime University,  B.E
 Paper
 ------
 
-HClave: An isolated execution environment design for hypervisor runtime security. **Qihang Zhou** , Wenzhuo Cao, Xiaoqi Jia, Shengzhi Zhang, Jiayun Chen, Nan Jiang, Weijuan Zhang, Haichao Du, Zhenyu Song, Qingjia Huang. _( Computers & Security ) 2024 _
+HClave: An isolated execution environment design for hypervisor runtime security. **Qihang Zhou** , Wenzhuo Cao, Xiaoqi Jia, Shengzhi Zhang, Jiayun Chen, Nan Jiang, Weijuan Zhang, Haichao Du, Zhenyu Song, Qingjia Huang. ( **Computers & Security 2024** ) 
 
-A Multi-realm Architecture Design for Running VM with ARM CCA. Jiayun Chen, **Qihang Zhou** , Xiaolong Yan, Nan Jiang, Xiaoqi Jia, Weijuan Zhang. Annual Computer Security Applications Conference  _( ACSAC ) 2024_
+A Multi-realm Architecture Design for Running VM with ARM CCA. Jiayun Chen, **Qihang Zhou** , Xiaolong Yan, Nan Jiang, Xiaoqi Jia, Weijuan Zhang. Annual Computer Security Applications Conference 2024  (**ACSAC'2024** )
 
-ConMonitor: Lightweight Container Protection with Virtualization and VM Functions. Shaowen Xu, **Qihang Zhou** , Zhicong Zhang, Xiaoqi Jia, Donglin Liu, Heqing Huang, Haichao Du, Zhenyu Song. The 15th Symposium on Cloud Computing  _( SOCC ) 2024_
+ConMonitor: Lightweight Container Protection with Virtualization and VM Functions. Shaowen Xu, **Qihang Zhou** , Zhicong Zhang, Xiaoqi Jia, Donglin Liu, Heqing Huang, Haichao Du, Zhenyu Song. The 15th Symposium on Cloud Computing 2024 ( **SOCC'2024** ) 
 
-SEDSpec: Securing Emulated Devices by Enforcing Execution Specification. Yang Chen, Shengzhi Zhang, Xiaoqi Jia, **Qihang Zhou**, Heqing Huang, Shaowen Xu, Haichao Du. The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks _( DSN ) 2024_
+SEDSpec: Securing Emulated Devices by Enforcing Execution Specification. Yang Chen, Shengzhi Zhang, Xiaoqi Jia, **Qihang Zhou**, Heqing Huang, Shaowen Xu, Haichao Du. The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks 2024 ( **DSN'2024** ) 
 
-vASP: Full VM Life-cycle Protection Based on Active Security Processor Architecture. Jiayun Chen, **Qihang Zhou** , Weijuan Zhang, Nan Jiang, Yamin Xie and Xiaoqi Jia The 24th IEEE/ACM international Symposium on Cluster, Cloud and Internet Computing _( CCGrid )2024_
+vASP: Full VM Life-cycle Protection Based on Active Security Processor Architecture. Jiayun Chen, **Qihang Zhou** , Weijuan Zhang, Nan Jiang, Yamin Xie and Xiaoqi Jia The 24th IEEE/ACM international Symposium on Cluster, Cloud and Internet Computing 2024 ( **CCGrid'2024** )
 
-LightArmor: A Lightweight Trusted Operating System Isolation Approach for Mobile Systems. Nan Jiang, **Qihang Zhou** , Xiaoqi Jia, Qingjia Huang, Haichao Du. IFIP International Information Security Conference（ IFIP SEC ）2024
+LightArmor: A Lightweight Trusted Operating System Isolation Approach for Mobile Systems. Nan Jiang, **Qihang Zhou** , Xiaoqi Jia, Qingjia Huang, Haichao Du. IFIP International Information Security Conference 2024 ( **IFIP SEC'2024** )
 
-SummSlim: A Universal and Automated Approach for Debloating Container Images. Zhicong Zhang, Heqing Huang, Shaowen Xu, **Qihang Zhou**, Tianshu Zhang, Xiaoqi Jia, Weijuan Zhang (ICPADS) 2024
+SummSlim: A Universal and Automated Approach for Debloating Container Images. Zhicong Zhang, Heqing Huang, Shaowen Xu, **Qihang Zhou**, Tianshu Zhang, Xiaoqi Jia, Weijuan Zhang。 The 30th International Conference on Parallel and Distributed Systems 2024 ( **ICPADS'2024**) 
 
-Log2Policy: An Approach to Generate Fine-Grained Access Control Rules for Microservices from Scratch. Shaowen Xu, **Qihang Zhou** , Heqing Huang, Xiaoqi Jia, Haichao Du, Yang Chen, Yamin Xie. Annual Computer Security Applications Conference ( ACSAC ) 2023
+Log2Policy: An Approach to Generate Fine-Grained Access Control Rules for Microservices from Scratch. Shaowen Xu, **Qihang Zhou** , Heqing Huang, Xiaoqi Jia, Haichao Du, Yang Chen, Yamin Xie. Annual Computer Security Applications Conference 2023 ( **ACSAC'2023** ) 
 
-Refining Use-after-free Defense: Eliminating Dangling Pointers in Registers and Memory. Xun An, **Qihang Zhou** , Haichao Du, Zhenyu Song, Xiaoqi Jia. Asia-Pacific Software Engineering Conference（ APSEC ） 2023
+Refining Use-after-free Defense: Eliminating Dangling Pointers in Registers and Memory. Xun An, **Qihang Zhou** , Haichao Du, Zhenyu Song, Xiaoqi Jia. Asia-Pacific Software Engineering Conference 2023 ( **APSEC'2023** )
 
-Non‑transferable blockchain‑based identity authentication. Yuxia Fu, Jun Shao, Qingjia Huang, **Qihang Zhou**, Huamin Feng, Xiaoqi Jia, Ruiyi Wang, Wenzhi Feng. _Peer-to-Peer Networking and Applications（ PPNA ） 2023
+Non‑transferable blockchain‑based identity authentication. Yuxia Fu, Jun Shao, Qingjia Huang, **Qihang Zhou**, Huamin Feng, Xiaoqi Jia, Ruiyi Wang, Wenzhi Feng. Peer-to-Peer Networking and Applications 2023 ( **PPNA'2023** ) 
 
-SecFortress: Securing Hypervisor using Cross-layer Isolation. **Qihang Zhou**, Xiaoqi Jia, Shengzhi Zhang, Nan jiang, Jiayun Chen, Weijuan Zhang. _In the 36th IEEE International Parallel & Distributed Processing Symposium（ IPDPS ）2022
+SecFortress: Securing Hypervisor using Cross-layer Isolation. **Qihang Zhou**, Xiaoqi Jia, Shengzhi Zhang, Nan jiang, Jiayun Chen, Weijuan Zhang. In the 36th IEEE International Parallel & Distributed Processing Symposium 2022 ( **IPDPS'2022** )
 
-Protecting Virtual Machines against Untrusted Hypervisor on ARM64 Cloud Platform. **Qihang Zhou**, Xiaoqi Jia, Nan jiang. _In the IEEE International Conference on Communications（ ICC ）2022
+Protecting Virtual Machines against Untrusted Hypervisor on ARM64 Cloud Platform. **Qihang Zhou**, Xiaoqi Jia, Nan jiang. In the IEEE International Conference on Communications 2022 ( **ICC'2022** )
 
 Book
 ------
