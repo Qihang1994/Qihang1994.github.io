@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Qihang Zhou Webpage"
 title_separator          : "-"
 name                     : &name "Qihang Zhou"
-description              : &description "personal description"
+description              : &description "Qihang Zhou's academic personal webpage"
 url                      : https://qihang1994.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Qihang1994/Qihang1994.github.io"
@@ -21,7 +21,7 @@ repository               : "Qihang1994/Qihang1994.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal.png"
+  avatar           : "personal.jpg"
   name             : "Qihang Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D of Cyberspace Security"
