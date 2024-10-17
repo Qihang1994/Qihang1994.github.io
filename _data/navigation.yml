@@ -5,7 +5,7 @@
 # prevent it from being included in the site.
 
 main:
-  #- title: "Publications"
+  - title: "-人間のすばらしさは勇気のすばらしさ"
  #   url: /publications/
 
  # - title: "Talks"
