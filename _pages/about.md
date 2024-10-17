@@ -13,7 +13,9 @@ Education & Work Experience
 ======
 
 2022.09 - Now, Institute of Information Engineering，Chinese Academy of Sciences, Research associate
+
 2017.09 - 2022.07, University of Chinese Academy of Sciences, Ph.D
+
 2013.09 - 2017.07, Dalian Maritime University, B.E 
 
 Getting started
