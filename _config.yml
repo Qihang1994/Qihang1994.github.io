@@ -21,7 +21,7 @@ repository               : "Qihang1994/Qihang1994.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal.png"
   name             : "Qihang Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D of Cyberspace Security"
