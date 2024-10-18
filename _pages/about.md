@@ -17,6 +17,14 @@ Education & Work Experience
 
 2013.09 - 2017.07,  Dalian Maritime University,  B.E 
 
+
+Book
+------
+深入探析：Linux系统虚拟化原理、实现与安全 (The Principle, Implementation, and Security of Linux Virtualization).  _Forthcoming_
+
+Package Experments: [Go ahead](https://gitee.com/silver-zhou/virtualization_book)
+
+
 Paper
 ------
 
@@ -44,9 +52,5 @@ SecFortress: Securing Hypervisor using Cross-layer Isolation. **Qihang Zhou**, X
 
 Protecting Virtual Machines against Untrusted Hypervisor on ARM64 Cloud Platform. **Qihang Zhou**, Xiaoqi Jia, Nan jiang. In the IEEE International Conference on Communications 2022 ( **ICC'2022** )
 
-Book
-------
-《深入探析：Linux系统虚拟化原理、实现与安全》 Forthcoming
 
-[Experiment](https://gitee.com/silver-zhou/virtualization_book)
 
