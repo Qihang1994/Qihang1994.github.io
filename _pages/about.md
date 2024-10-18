@@ -46,7 +46,7 @@ Protecting Virtual Machines against Untrusted Hypervisor on ARM64 Cloud Platform
 
 Book
 ------
-《深入探析：Linux系统虚拟化原理、实现与安全》 forthcoming
+《深入探析：Linux系统虚拟化原理、实现与安全》 Forthcoming
 
 [Experiment](https://gitee.com/silver-zhou/virtualization_book)
 
