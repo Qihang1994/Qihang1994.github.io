@@ -47,5 +47,5 @@ Protecting Virtual Machines against Untrusted Hypervisor on ARM64 Cloud Platform
 Book
 ------
 
-[Experiment](https://https://gitee.com/silver-zhou/virtualization_book)
+[Experiment](https://gitee.com/silver-zhou/virtualization_book)
 
