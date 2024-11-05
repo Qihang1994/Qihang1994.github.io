@@ -38,6 +38,8 @@ SEDSpec: Securing Emulated Devices by Enforcing Execution Specification. Yang Ch
 
 vASP: Full VM Life-cycle Protection Based on Active Security Processor Architecture. Jiayun Chen, **Qihang Zhou** , Weijuan Zhang, Nan Jiang, Yamin Xie and Xiaoqi Jia The 24th IEEE/ACM international Symposium on Cluster, Cloud and Internet Computing 2024 ( **CCGrid'2024** )
 
+SeChannel: A Secure and Lightweight Channel Protection Approach for TEE Systems. Nan Jiang, Yuanbo Zhao, **Qihang Zhou** , Xiaoqi Jia, Jing Tang. The 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications ( **TrustCom'2024** )
+
 LightArmor: A Lightweight Trusted Operating System Isolation Approach for Mobile Systems. Nan Jiang, **Qihang Zhou** , Xiaoqi Jia, Qingjia Huang, Haichao Du. IFIP International Information Security Conference 2024 ( **IFIP SEC'2024** )
 
 SummSlim: A Universal and Automated Approach for Debloating Container Images. Zhicong Zhang, Heqing Huang, Shaowen Xu, **Qihang Zhou**, Tianshu Zhang, Xiaoqi Jia, Weijuan Zhang。 The 30th International Conference on Parallel and Distributed Systems 2024 ( **ICPADS'2024**) 
