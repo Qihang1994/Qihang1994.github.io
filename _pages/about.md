@@ -29,11 +29,11 @@ Paper
 ------
 RContainer: A Secure Container Architecture through Extending ARM CCA Hardware Primitives. **Qihang Zhou** , Wenzhuo Cao, Xiaoqi Jia, Peng Liu, Shengzhi Zhang, Jiayun Chen, Shaowen Xu, Zhenyu Song. (**NDSS 2025**)
 
-HClave: An isolated execution environment design for hypervisor runtime security. **Qihang Zhou** , Wenzhuo Cao, Xiaoqi Jia, Shengzhi Zhang, Jiayun Chen, Nan Jiang, Weijuan Zhang, Haichao Du, Zhenyu Song, Qingjia Huang. ( **Computers & Security 2024** ) 
-
 A Multi-realm Architecture Design for Running VM with ARM CCA. Jiayun Chen, **Qihang Zhou** , Xiaolong Yan, Nan Jiang, Xiaoqi Jia, Weijuan Zhang. Annual Computer Security Applications Conference 2024  (**ACSAC'2024** )
 
 ConMonitor: Lightweight Container Protection with Virtualization and VM Functions. Shaowen Xu, **Qihang Zhou** , Zhicong Zhang, Xiaoqi Jia, Donglin Liu, Heqing Huang, Haichao Du, Zhenyu Song. The 15th Symposium on Cloud Computing 2024 ( **SOCC'2024** ) 
+
+HClave: An isolated execution environment design for hypervisor runtime security. **Qihang Zhou** , Wenzhuo Cao, Xiaoqi Jia, Shengzhi Zhang, Jiayun Chen, Nan Jiang, Weijuan Zhang, Haichao Du, Zhenyu Song, Qingjia Huang. ( **Computers & Security 2024** ) 
 
 SEDSpec: Securing Emulated Devices by Enforcing Execution Specification. Yang Chen, Shengzhi Zhang, Xiaoqi Jia, **Qihang Zhou**, Heqing Huang, Shaowen Xu, Haichao Du. The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks 2024 ( **DSN'2024** ) 
 
