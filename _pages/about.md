@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Qihang Zhou received the Ph.D degree in Cyberspace Security from University of Chinese Academy of Sciences, Beijing, China. She is working as a postdoctor in the Institute of information engineering, Chinese Academy of Sciences, Beijing, China. Her research interests include **Cloud security**, **system security**, **virtualization security** and **mobile security**.
+Qihang Zhou received the Ph.D degree in Cyberspace Security from University of Chinese Academy of Sciences, Beijing, China. She is working as a postdoctor in the Institute of information engineering, Chinese Academy of Sciences, Beijing, China. Her research interests include **cloud security**, **system security**, **virtualization security** and **mobile security**.
 
 Education & Work Experience
 ------
