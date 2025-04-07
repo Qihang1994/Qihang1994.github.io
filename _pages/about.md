@@ -31,6 +31,8 @@ RContainer: A Secure Container Architecture through Extending ARM CCA Hardware P
 
 Unicontainer: Unlocking the Potential of Unikernel for Secure and Efficient Containerization. Zhicong Zhang, **Qihang Zhou**, Shaowen Xu, Nan Jiang, Weijuan Zhang, Xiaoqi Jia. (**SIGMETRICS'2025**)
 
+Chameleon: Towards Building Least-privileged TEE via Functionality-based Resource Re-grouping. Nan Jiang, **Qihang Zhou**, Feifan Qian, Jiayun Chen, Heqing Huang, Xiaoqi Jia, Haichao Du. (**Mobisys'2025**)
+
 CubeVisor: A Multi-realm Architecture Design for Running VM with ARM CCA. Jiayun Chen, **Qihang Zhou** , Xiaolong Yan, Nan Jiang, Xiaoqi Jia, Weijuan Zhang. Annual Computer Security Applications Conference 2024  (**ACSAC'2024** )
 
 ConMonitor: Lightweight Container Protection with Virtualization and VM Functions. Shaowen Xu, **Qihang Zhou** , Zhicong Zhang, Xiaoqi Jia, Donglin Liu, Heqing Huang, Haichao Du, Zhenyu Song. The 15th Symposium on Cloud Computing 2024 ( **SOCC'2024** ) 
