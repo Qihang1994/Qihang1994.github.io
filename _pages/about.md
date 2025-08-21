@@ -20,7 +20,7 @@ Education & Work Experience
 
 Book
 ------
-深入探析：Linux系统虚拟化原理、实现与安全 (The Principle, Implementation, and Security of Linux Virtualization).  _Forthcoming_
+深入探析Linux系统虚拟化原理、实现与安全 (The Principle, Implementation, and Security of Linux Virtualization).  _Forthcoming_
 
 Package Experments: [Go ahead](https://gitee.com/silver-zhou/virtualization_book)
 
