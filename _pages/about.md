@@ -27,6 +27,8 @@ Package Experments: [Go ahead](https://gitee.com/silver-zhou/virtualization_book
 
 Paper
 ------
+SISTAR: An Efficient DDoS Detection and Mitigation Framework Utilizing Programmable Data Planes. Junjie Hu, feng guo, **Qihang Zhou**, Yixin Zhang, Zibo Gao, Yinglong Han, Zhiqiang Lv. (**CCS'2025**)
+
 RContainer: A Secure Container Architecture through Extending ARM CCA Hardware Primitives. **Qihang Zhou** , Wenzhuo Cao, Xiaoqi Jia, Peng Liu, Shengzhi Zhang, Jiayun Chen, Shaowen Xu, Zhenyu Song. (**NDSS'2025**)
 
 Unicontainer: Unlocking the Potential of Unikernel for Secure and Efficient Containerization. Zhicong Zhang, **Qihang Zhou**, Shaowen Xu, Nan Jiang, Weijuan Zhang, Xiaoqi Jia. (**SIGMETRICS'2025**)
