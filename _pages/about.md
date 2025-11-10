@@ -31,7 +31,9 @@ Package Experments: [Go ahead](https://gitee.com/silver-zhou/virtualization_book
 
 Paper
 ------
-**[CCS'2025]** SISTAR: An Efficient DDoS Detection and Mitigation Framework Utilizing Programmable Data Planes. Junjie Hu, feng guo, **Qihang Zhou**, Yixin Zhang, Zibo Gao, Yinglong Han, Zhiqiang Lv. 
+**[AAAI'2026]** Focusing on Language: Revealing and Exploiting Language Attention Heads in Multilingual Large Language Models. Xin Liu, Qiyang Song, **Qihang Zhou**, Haichao Du, Shaowen Xu, Wenbo Jiang, Weijuan Zhang, Xiaoqi Jia.
+
+**[CCS'2025]** SISTAR: An Efficient DDoS Detection and Mitigation Framework Utilizing Programmable Data Planes. Junjie Hu, Feng Guo, **Qihang Zhou**, Yixin Zhang, Zibo Gao, Yinglong Han, Zhiqiang Lv. 
 
 **[NDSS'2025]** RContainer: A Secure Container Architecture through Extending ARM CCA Hardware Primitives. **Qihang Zhou** , Wenzhuo Cao, Xiaoqi Jia, Peng Liu, Shengzhi Zhang, Jiayun Chen, Shaowen Xu, Zhenyu Song.
 
