@@ -31,6 +31,8 @@ Package Experments: [Go ahead](https://gitee.com/silver-zhou/virtualization_book
 
 Paper
 ------
+**[NDSS'2026]** IoTBec: An Accurate and Efficient Recurring Vulnerability Detection Framework for Black Box IoT devices. Haoran Yang, Jiaming Guo, Shuangning Yang, Guoli Zhao, Qingqi Liu, Chi Zhang, Zhenlu Tan, Lixiao Shan, **Qihang Zhou**, Mengting Zhou, Jianwei Tai, Xiaoqi Jia
+
 **[AAAI'2026]** Focusing on Language: Revealing and Exploiting Language Attention Heads in Multilingual Large Language Models. Xin Liu, Qiyang Song, **Qihang Zhou**, Haichao Du, Shaowen Xu, Wenbo Jiang, Weijuan Zhang, Xiaoqi Jia.
 
 **[CCS'2025]** SISTAR: An Efficient DDoS Detection and Mitigation Framework Utilizing Programmable Data Planes. Junjie Hu, Feng Guo, **Qihang Zhou**, Yixin Zhang, Zibo Gao, Yinglong Han, Zhiqiang Lv. 
