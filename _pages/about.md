@@ -31,6 +31,10 @@ Package Experments: [Go ahead](https://gitee.com/silver-zhou/virtualization_book
 
 Paper
 ------
+**[IEEE TC]** FlexClave: An Extensible and Secure Trusted Execution Environment Framework. **Qihang Zhou**, Wenzhuo Cao, Xiaoqi Jia, Shaowen Xu, Jiayun Chen, Nan Jiang, Zhicong Zhang, Zhenyu Song, Haichao Du, Yamin Xie, Chen Song, Jing Tang, Peijie Yin, Shengzhi Zhang, Peng Liu.
+
+**[USENIX Security'2026]** vCause: Efficient and Verifiable Causality Analysis for Cloud-based Endpoint Auditing. Qiyang Song, **Qihang Zhou**, Xiaoqi Jia, Zhenyu Song, Wenbo Jiang, Heqing Huang, Yong Liu, Dan Meng.
+
 **[NDSS'2026]** IoTBec: An Accurate and Efficient Recurring Vulnerability Detection Framework for Black Box IoT devices. Haoran Yang, Jiaming Guo, Shuangning Yang, Guoli Zhao, Qingqi Liu, Chi Zhang, Zhenlu Tan, Lixiao Shan, **Qihang Zhou**, Mengting Zhou, Jianwei Tai, Xiaoqi Jia
 
 **[AAAI'2026]** Focusing on Language: Revealing and Exploiting Language Attention Heads in Multilingual Large Language Models. Xin Liu, Qiyang Song, **Qihang Zhou**, Haichao Du, Shaowen Xu, Wenbo Jiang, Weijuan Zhang, Xiaoqi Jia.
