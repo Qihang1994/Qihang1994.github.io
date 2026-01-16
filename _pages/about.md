@@ -24,6 +24,8 @@ Book
 ------
 深入探析Linux系统虚拟化原理、实现与安全 (The Principle, Implementation, and Security of Linux Virtualization).  _Forthcoming_
 
+<img width="167" height="234" alt="image" src="https://github.com/user-attachments/assets/14fb872f-37db-4dd0-adc1-6708a1b5ad6c" style="border: 1px solid #e1e4e8; border-radius: 6px;" />
+
 Package Experments: [Go ahead](https://gitee.com/silver-zhou/virtualization_book)
 
 
