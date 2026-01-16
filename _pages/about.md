@@ -33,6 +33,8 @@ Paper
 ------
 **[IEEE TC'2026]** FlexClave: An Extensible and Secure Trusted Execution Environment Framework. **Qihang Zhou**, Wenzhuo Cao, Xiaoqi Jia, Shaowen Xu, Jiayun Chen, Nan Jiang, Zhicong Zhang, Zhenyu Song, Haichao Du, Yamin Xie, Chen Song, Jing Tang, Peijie Yin, Shengzhi Zhang, Peng Liu. IEEE Transactions on Computers.
 
+**[WWW'2026]** FalconScope: Effective and Efficient Detection of Hidden Web Interfaces in IoT Devices. Jiaming Guo, Haoran Yang, Kuihao Yan, Jiekang Hu, Xiaoqi Jia, Haichao Du and **Qihang Zhou**. THE ACM Web Conference 2026.
+
 **[USENIX Security'2026]** vCause: Efficient and Verifiable Causality Analysis for Cloud-based Endpoint Auditing. Qiyang Song, **Qihang Zhou**, Xiaoqi Jia, Zhenyu Song, Wenbo Jiang, Heqing Huang, Yong Liu, Dan Meng. The 35th USENIX Security Symposium.
 
 **[NDSS'2026]** IoTBec: An Accurate and Efficient Recurring Vulnerability Detection Framework for Black Box IoT devices. Haoran Yang, Jiaming Guo, Shuangning Yang, Guoli Zhao, Qingqi Liu, Chi Zhang, Zhenlu Tan, Lixiao Shan, **Qihang Zhou**, Mengting Zhou, Jianwei Tai, Xiaoqi Jia. The Network and Distributed System Security (NDSS) Symposium 2026.
