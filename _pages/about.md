@@ -33,6 +33,8 @@ Package Experments: [Go ahead](https://gitee.com/silver-zhou/virtualization_book
 
 Paper
 ------
+**[ASPLOS'26]** WorksetEnclave: Towards Optimizing Cold Starts in Confidential Serverless with Workset-Based Enclave Restore. Xiaolong Yan, **Qihang Zhou**, Zisen Wan, Feifan Qian, Wentao Yao, Weijuan Zhang, Xiaoqi Jia. The ACM International Conference on Architectural Support for Programming Languages and Operating Systems.
+
 **[IEEE TC'2026]** FlexClave: An Extensible and Secure Trusted Execution Environment Framework. **Qihang Zhou**, Wenzhuo Cao, Xiaoqi Jia, Shaowen Xu, Jiayun Chen, Nan Jiang, Zhicong Zhang, Zhenyu Song, Haichao Du, Yamin Xie, Chen Song, Jing Tang, Peijie Yin, Shengzhi Zhang, Peng Liu. IEEE Transactions on Computers.
 
 **[WWW'2026]** FalconScope: Effective and Efficient Detection of Hidden Web Interfaces in IoT Devices. Jiaming Guo, Haoran Yang, Kuihao Yan, Jiekang Hu, Xiaoqi Jia, Haichao Du and **Qihang Zhou**. The International World Wide Web Conference 2026.
