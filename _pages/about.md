@@ -19,12 +19,11 @@ Education & Work Experience
 
 2013.09 - 2017.07,  Dalian Maritime University,  B.E 
 
-
 Book
 ------
-深入探析Linux系统虚拟化原理、实现与安全 (The Principle, Implementation, and Security of Linux Virtualization).  _Forthcoming_
+贾晓启.周启航. 深入探析Linux系统虚拟化原理、实现与安全 (The Principle, Implementation, and Security of Linux Virtualization). 北京: 科学出版社, 2026-02
 
-<img width="167" height="234" alt="image" src="https://github.com/user-attachments/assets/14fb872f-37db-4dd0-adc1-6708a1b5ad6c" style="border: 1px solid #e1e4e8; border-radius: 6px;" />
+<img width="167" height="234" alt="image" src="https://github.com/user-attachments/assets/3dcc5a01-9ba5-4871-bda5-78428724ba73" style="border: 1px solid #e1e4e8; border-radius: 6px;" />
 
 Package Experments: [Go ahead](https://gitee.com/silver-zhou/virtualization_book)
 
