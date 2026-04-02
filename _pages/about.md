@@ -32,6 +32,12 @@ Package Experments: [Go ahead](https://gitee.com/silver-zhou/virtualization_book
 
 Paper
 ------
+**[DSN'26]** Bypassing Safety Alignment via API Design: A Systematic Risk Analysis of Response Prefill in LLM systems. Yakai Li, Jiekang Hu, Weiduan Sang, Luping Ma, Weijuan Zhang, Aimin Yu, **Qihang Zhou**, Yi Su, Dongsheng Nie, Qingjia Huang. The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks.
+
+**[DSN'26]** VCAligner: Aligning Source Distribution Versions with Upstream Git Commits to Secure Supply Chain. Yan Li, Nan Jiang, **Qihang Zhou**, Shaowen Xu, Yamin Xie, Xiaoqi Jia. The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks.
+
+**[SECON'26]** DRShield: Coordinating Line-Rate Enforcement and Global Adaptation for Dynamic DDoS Defense. Junjie Hu, Qihang Zhou, Zibo Gao, Yixin Zhang, Haiyang Li, Xiaoqi Jia, Zhiqiang Lv. The 22nd Annual IEEE International Conference on Sensing, Communication, and Networking.
+
 **[ASPLOS'26]** WorksetEnclave: Towards Optimizing Cold Starts in Confidential Serverless with Workset-Based Enclave Restore. Xiaolong Yan, **Qihang Zhou**, Zisen Wan, Feifan Qian, Wentao Yao, Weijuan Zhang, Xiaoqi Jia. The ACM International Conference on Architectural Support for Programming Languages and Operating Systems.
 
 **[IEEE TC'2026]** FlexClave: An Extensible and Secure Trusted Execution Environment Framework. **Qihang Zhou**, Wenzhuo Cao, Xiaoqi Jia, Shaowen Xu, Jiayun Chen, Nan Jiang, Zhicong Zhang, Zhenyu Song, Haichao Du, Yamin Xie, Chen Song, Jing Tang, Peijie Yin, Shengzhi Zhang, Peng Liu. IEEE Transactions on Computers.
