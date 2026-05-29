@@ -9,7 +9,10 @@ redirect_from:
 
 Qihang Zhou received the Ph.D degree in Cyberspace Security from University of Chinese Academy of Sciences, Beijing, China. She is working as a postdoctor in the Institute of information engineering, Chinese Academy of Sciences, Beijing, China. Her research interests include **cloud computing security** and **LLM security**. 
 
-Team Website: [DAMS](https://dams.net.cn)
+Team Website: [DAMS](https://dams.net.cn) 
+
+**Welcome to join us, contact: zhouqihang@iie.ac.cn**
+
 
 Education & Work Experience
 ------
@@ -18,6 +21,7 @@ Education & Work Experience
 2017.09 - 2022.07,  University of Chinese Academy of Sciences,  Ph.D
 
 2013.09 - 2017.07,  Dalian Maritime University,  B.E 
+
 
 Book
 ------
@@ -32,6 +36,8 @@ Package Experments: [Go ahead](https://gitee.com/silver-zhou/virtualization_book
 
 Paper
 ------
+**[USENIX Security'2026]** Fuzzing Open-Source GPU Hardware with SIMT Program Generation. Zibo Gao, Jie Wang, **Qihang Zhou**, Lixiao Shan, Junjie Hu, Xiaoqi Jia, Zhiqiang Lv. The 35th USENIX Security Symposium.
+
 **[DSN'26]** Bypassing Safety Alignment via API Design: A Systematic Risk Analysis of Response Prefill in LLM systems. Yakai Li, Jiekang Hu, Weiduan Sang, Luping Ma, Weijuan Zhang, Aimin Yu, **Qihang Zhou**, Yi Su, Dongsheng Nie, Qingjia Huang. The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks.
 
 **[DSN'26]** VCAligner: Aligning Source Distribution Versions with Upstream Git Commits to Secure Supply Chain. Yan Li, Nan Jiang, **Qihang Zhou**, Shaowen Xu, Yamin Xie, Xiaoqi Jia. The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks.
